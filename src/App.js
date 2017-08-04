@@ -39,6 +39,7 @@ class App extends Component {
           To get started, edit <code>src/App.js</code> and save to reload.
         </p>
         <iframe
+          title="tv-frame"
           width="640"
           height="360"
           src={this.state.currentVideoSource + '?autoplay=1'}

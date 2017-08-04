@@ -37,6 +37,7 @@ ShallowWrapper {
         frameBorder="0"
         height="360"
         src="https://www.youtube.com/embed/2J5GzHoKl1Q?autoplay=1"
+        title="tv-frame"
         width="640"
     />
 </div>,
@@ -70,13 +71,14 @@ ShallowWrapper {
             frameBorder="0"
             height="360"
             src="https://www.youtube.com/embed/2J5GzHoKl1Q?autoplay=1"
+            title="tv-frame"
             width="640"
       />
 </div>,
   ],
   "options": Object {},
   "renderer": ReactShallowRenderer {
-    "_instance": ShallowComponentWrapper {
+    "_instance":  {
       "_calledComponentWillUnmount": false,
       "_compositeType": 0,
       "_context": Object {},
@@ -140,6 +142,7 @@ ShallowWrapper {
                     frameBorder="0"
                     height="360"
                     src="https://www.youtube.com/embed/2J5GzHoKl1Q?autoplay=1"
+                    title="tv-frame"
                     width="640"
           />
 </div>,
@@ -173,6 +176,7 @@ ShallowWrapper {
                     frameBorder="0"
                     height="360"
                     src="https://www.youtube.com/embed/2J5GzHoKl1Q?autoplay=1"
+                    title="tv-frame"
                     width="640"
           />
 </div>,
